@@ -11,6 +11,6 @@ I'm best reached via [LinkedIn](https://www.linkedin.com/in/louisowen/) and I lo
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=louisowen6&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=4A154B&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=louisowen6&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
 
 </div>
