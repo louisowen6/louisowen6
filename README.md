@@ -8,3 +8,9 @@ I'm a Data Scientist and AI Researcher from Indonesia who always hungry for new 
 - 😄 You can learn more about me in my [AI-Powered Portfolio](https://louisowen6.github.io/).
 
 I'm best reached via [LinkedIn](https://www.linkedin.com/in/louisowen/) and I love to meet new friends! So, please feel free to reach me if you have any topics to be discussed or interesting projects collaboration.
+
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=louisowen6&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=4A154B&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
+
+</div>
