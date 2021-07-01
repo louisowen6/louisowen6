@@ -1,4 +1,5 @@
-### Hi, I'm Louis 👋
+### Hi, I'm Louis <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+
 
 I'm a Data Scientist and AI Researcher from Indonesia who always hungry for new knowledge.
 
